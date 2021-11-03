@@ -1,0 +1,108 @@
+body{
+    background-image: url(./image.html.jpg);
+    height: 1800px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border-radius: 30px;
+    margin: 20px;
+    background-color: black;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+
+#box1{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    left: 50px;
+}
+#box2{
+    margin-top: 20px;
+    width: 30%;
+    height: 50%;
+}
+#box3{
+    width: 30%;
+    height: 10%;
+}
+.container1{
+    display: flex;
+}
+.circle{
+    width: 400px;
+    height: 400px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    border: 5px solid cornflowerblue;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.content{
+    text-align: center;
+    margin-top: 110px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.form{
+    color: salmon;
+    border: 5px dashed red;
+    margin-left: 100px;
+    background-color: white;
+    width: 350px;
+    height: 700px;
+    text-align: center;
+    width: 33.33%;
+    float: right;
+    margin-left: 4em;
+    
+}
+.box4{
+    margin-top: 40px;
+    margin-left: 400px;
+    text-align: center;
+    width: 400px;
+}
+.container2{
+    display: flex;
+}
+p{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 0px;
+}
+h1{
+    color: navy;
+    text-align: center;
+}
+.Boxes{
+    border: 3px solid green;
+    border-radius: 40px;
+    background-color: rgb(0, 225, 225);
+    margin: 50px;
+    width: 400px;
+    height: 270px;
+    text-align: center;
+    color: navy;
+
+}
+.container3{
+    display: flex;
+}
+.boxes{
+    border: 3px solid green;
+    border-radius: 40px;
+    background-color: rgb(0, 225, 225);
+    margin: 50px;
+    width: 400px;
+    height: 270px;
+    text-align: center;
+    color: navy;
+}
